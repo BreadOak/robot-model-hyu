@@ -48,3 +48,5 @@ For every robot in the table, this repository includes functions for:
 	- Body Jacobian(q)
 - Analytical derivatives of forward dynamics
 - Analytical derivatives of inverse dynamics
+
+To add model information to the CMakeLists.txt file in the /urdf2modelcasadi/urdf2model/examples directory and build the project:
