@@ -49,4 +49,7 @@ For every robot in the table, this repository includes functions for:
 - Analytical derivatives of forward dynamics
 - Analytical derivatives of inverse dynamics
 
-To add model information to the CMakeLists.txt file in the /urdf2modelcasadi/urdf2model/examples directory and build the project:
+To add model information to the CMakeLists.txt file in the '~/urdf2modelcasadi/urdf2model/examples' directory and build the project.
+
+Run the generated file in '~/urdf2modelcasadi/build/examples'.
+
